@@ -4,5 +4,3 @@
 This is my first commit
 
 I am making change on remote
-
-I am in branch A
