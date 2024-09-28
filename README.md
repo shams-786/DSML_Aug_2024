@@ -7,4 +7,7 @@ I am making change on remote
 
 I am in Branch A
 
+I am in Branch B
+
 I am in Branch C
+
